@@ -1,0 +1,6 @@
+{
+    "name": "fastapi-heroku-template",
+    "description": "HerokuでFastAPIによるWebAPIを作成するためのテンプレート",
+    "repository": "https://github.com/1ntegrale9/fastapi-heroku-template",
+    "keywords": ["python", "fastapi"]
+}

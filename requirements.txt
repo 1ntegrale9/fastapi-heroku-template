@@ -1,0 +1,6 @@
+fastapi
+email-validator
+uvicorn
+redis
+hiredis
+flake8
